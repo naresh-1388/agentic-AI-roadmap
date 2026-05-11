@@ -6,8 +6,7 @@ The site covers a 26-week learning path across Python foundations, LLM mental mo
 
 ## Live Site
 
-GitHub Pages:
-
+https://naresh-1388.github.io/agentic-AI-roadmap/
 
 ## Tech Stack
 
