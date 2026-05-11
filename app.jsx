@@ -388,8 +388,8 @@ function App() {
           The 2026 Edition · 26 Weeks · 9 Phases
         </div>
         <h1 className="hero__title">
-          The only roadmap<br />
-          you need to become a<br />
+          Roadmap<br />
+          to become a<br />
           <span className="hero__title-100x">100× AI Engineer</span> <em>in 2026.</em>
         </h1>
         <p className="hero__sub">
