@@ -8,15 +8,6 @@ The site covers a 26-week learning path across Python foundations, LLM mental mo
 
 GitHub Pages:
 
-https://ch-balaji.github.io/ai-engineer-roadmap/
-
-## About
-
-This roadmap is created by Balaji Chippada, an AI/ML practitioner and tutor who has worked across traditional machine learning, production-scale agentic AI systems, and AI/data science education.
-
-The curriculum is designed around one idea:
-
-> If I had to start all over again in 2026, this is how I would begin.
 
 ## Tech Stack
 
